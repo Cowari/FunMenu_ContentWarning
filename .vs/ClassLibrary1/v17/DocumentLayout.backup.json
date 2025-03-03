@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cowari\\Desktop\\MyPluginCW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8D6B7-F92B-4A69-A9ED-184503891AD4}|MyPluginCW.csproj|c:\\users\\cowari\\desktop\\myplugincw\\myplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB8D6B7-F92B-4A69-A9ED-184503891AD4}|MyPluginCW.csproj|solutionrelative:myplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Cowari\\Desktop\\MyPluginCW\\MyPlugin.cs",
+              "RelativeDocumentMoniker": "MyPlugin.cs",
+              "ToolTip": "C:\\Users\\Cowari\\Desktop\\MyPluginCW\\MyPlugin.cs",
+              "RelativeToolTip": "MyPlugin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:00:52.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
